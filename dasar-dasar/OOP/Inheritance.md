@@ -22,7 +22,7 @@ class Fruit {
   }
 }
 
-// Strawberry is inherited from Fruit
+// Stroberi diwarisi dari Buah
 class Strawberry extends Fruit {
   public function message() {
     echo "Am I a fruit or a berry? "; 
